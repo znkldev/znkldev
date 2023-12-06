@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=znkldev&" alt="znkldev" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/znkldev/znkldev/blob/output/github-contribution-grid-snake.gif)
