@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=znkldev&label=Profile%20views&color=1c1c1c&style=flat" alt="znkldev" /> </p>
 
-- 🔭 I’m currently working on **Mobile Chat App**
+- 🔭 I’m currently working on [**Mobile Chat App**](https://knxx8wj14y6wwzmopl7nqq.on.drv.tw/www.chatting.com/)
 
-- 🔥 I’m currently finished **Desktop Clock Widget**
+- 🔥 I’m currently finished [**Desktop Clock Widget**](https://github.com/znkldev/Desktop-Clock-Widget)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
