@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=znkldev&label=Profile%20views&color=1c1c1c&style=flat" alt="znkldev" /> </p>
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/znkldev)
+
+[![Github fallower](https://img.shields.io/github/followers/znkldev?style=social)](https://github.com/znkldev) 
+
 - 🔭 I’m currently working on [**Mobile Chat App**](https://knxx8wj14y6wwzmopl7nqq.on.drv.tw/www.chatting.com/)
 
 - 🔥 I’m currently finished [**Desktop Clock Widget**](https://github.com/znkldev/Desktop-Clock-Widget)
