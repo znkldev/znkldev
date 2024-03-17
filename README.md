@@ -7,7 +7,7 @@
 
 [![Github fallower](https://img.shields.io/github/followers/znkldev?style=social)](https://github.com/znkldev) 
 
-- 🔭 I’m currently working on [**Mobile Chat App**](https://knxx8wj14y6wwzmopl7nqq.on.drv.tw/www.chatting.com/)
+- 🔭 I’m currently working on [**Mobile Chat App**](https://chattingandroidapplication.on.drv.tw/www.chatting.com/)
 
 - 🔥 I’m currently finished [**Desktop Clock Widget**](https://github.com/znkldev/Desktop-Clock-Widget)
 
